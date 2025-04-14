@@ -131,3 +131,14 @@ To serve this project using NestJS's static file serving functionality:
   - Added proper type assertions (`as const`) to color properties in pricing plans
   - Ensured type compatibility between pricing plans and PricingCardProps interface
   - Resolved "Types of property 'color' are incompatible" error 
+
+## August 26, 2024
+- Created comprehensive README.md file:
+  - Added detailed setup and installation instructions
+  - Included WordPress plugin integration documentation
+  - Added NestJS backend integration instructions
+  - Documented API usage with example code
+  - Created troubleshooting section for common issues
+  - Added configuration instructions for environment variables
+  - Included customization guidelines for theme and WordPress API integration
+  - Added proper support contact information and licensing details 
