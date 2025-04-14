@@ -67,3 +67,5 @@ pnpm build
 ```
 
 This will create a static export in the `build` directory.
+
+### Note: This is just a web template
